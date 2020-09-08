@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![GitHub Logo](/images/logo.png)
+![Main pic](/Images/web.jpg)
 Format: ![Alt Text](url)
 
