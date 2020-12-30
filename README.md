@@ -10,6 +10,7 @@
 
 
  # Technologies that I use 
-|HTML5|CSS - SaSS|Js|React|Angular|PHP|MySQL|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" width="100">| <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100"> <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" width="100"> | <img src="https://image.flaticon.com/icons/png/512/919/919828.png" width="100"> |<img src="https://www.technoscore.com/images/services/react-js-icon.png" width="100"> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="100">|<img src="https://image.flaticon.com/icons/png/512/919/919830.png" width="100">|<img src="https://www.servidoresadmin.com/wp-content/uploads/2016/02/MySQL.png" width="100"> |
+|HTML5|CSS - SaSS|Js|React|Angular|PHP|MySQL|Laravel|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:||:---:|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" width="100">| <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100"> <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" width="100"> | <img src="https://image.flaticon.com/icons/png/512/919/919828.png" width="100"> |<img src="https://www.technoscore.com/images/services/react-js-icon.png" width="100"> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="100">|<img src="https://image.flaticon.com/icons/png/512/919/919830.png" width="100">|<img src="https://www.servidoresadmin.com/wp-content/uploads/2016/02/MySQL.png" width="100"> |<img src="https://ricardogeek.com/wp-content/uploads/2019/06/laravel-logo.png" width="100"> |
+
