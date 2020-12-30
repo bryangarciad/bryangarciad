@@ -4,7 +4,7 @@
 ##### Hello, I'm an electronics engineer but I found my passion in web development, then, here I am... Working far from home.
 
 :smile: I enjoy solving problems driven to web development. <br>
-:bulb: I Love to earn new technologies.  <br>
+:bulb: I Love to learn new technologies.  <br>
 :rocket: Coding makes me feel good!. <br>
 :punch: I am a dedicated, outgoing, and a team player. <br>
 
